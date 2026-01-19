@@ -2,13 +2,9 @@ Toxin Domain Files
 
 ## Toxin Domain Files
 
+## RelE-like
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| Barnase | [This Resource][barnase_model] | [1b20][barnase_molx] |
-| XendoU | [PF09412][XendoU]| [2C1W][XendoU_molx] |
-| EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
-| Colicin D | [PF11429][colicind_model] | [1v74][colicind_molx]|
-| Colicin E5 | [PF12106][colicine5_model] | [2dfx][colicine5_molx] |
 | RelE (E. coli) | [This Resource][rele_model]  [4fxi][rele_molx] |
 | RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model] | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
 | ParE | [PF05016][pare_model] | [A0A4V1BZU9][pare_molx] |
@@ -20,57 +16,86 @@ Toxin Domain Files
 | HigB-like 	       		      | [PF05015][higb-like_model]          | [A0A7H0SQA8][higb-like_molx] |
 | BrnT 		                      | [PF04365][brnt_model]	            | [7cd7][brnt_molx] |
 | MqsR		            		  | [PF15723][mqsr_model]	            | [3hi2][mqsr_molx] |
-| YeeF 		                      | [This resource][yeef_model]         | [O31506][yeef_molx]
 | YafQ		                      | [PF15738][yafq_model]	            | [4LS4][yafq_molx] [L8LVU0][yafq_l8lvu0_molx] |
 | gp49		                      | [PF05973][gp49_model]	            | [Q2RNU1][gp49_molx] |
 | MuF-like	                      | [PF18819][muf-like_model]           | [A0A096XES0][muf-like_molx] |
 | RegB 		                      | [PF10715][regb_model]	            | [2hx6][regb_molx] |
+| CdiA-CT 96.165                  | [This Resource][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx]     |
+| Ntox19                          | [Nicastro et al., 2025][Ntox19]     | [FD01848386_04431][Ntox19_molx]   |
+| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]   |
+| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]   |
+
+## BECR-like
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| STox_1                          | [Nicastro et al., 2025][STox_1]       | [WP_078701610.1][STox_1_molx]     |
+| STox_3                          | [Nicastro et al., 2025][STox_3]       | [FD01852914_04161][STox_3_molx]   |
+| STox_4                          | [Nicastro et al., 2025][STox_4]       | [FD01875531_02409][STox_4_molx]   |
+| STox_55                         | [Nicastro et al., 2025][STox_55]      | [WP_117405990.1][STox_55_molx]    |
+
+## Barnase-like
+
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| EndoVII                         | [PF15657][PF15657]                  | [U2R0G2][PF15657_molx]            |
+| Barnase | [This Resource][barnase_model] | [1b20][barnase_molx] |
+| Ntox7                           | [Nicastro et al., 2025][Ntox7]      | [FD01849511_03367][Ntox7_molx]    | 
+| Ntox36                          | [Zhang et al., 2012][Ntox36]        | [B2KBJ9][Ntox36_molx]             |
+| Ntox47                          | [PF15540][Ntox47]                   | [A0A081NGI3][Ntox47_molx]         |
+| Ntox47.st1                      | [Nicastro et al., 2025][Ntox47.st1] | [FD01844471_04082][Ntox47.st1_molx] |
+| Ntox47.st2                      | [Nicastro et al., 2025][Ntox47.st2] | [FD01542955_04107][Ntox47.st2_molx] |
+| Stox_2                          | [Nicastro et al., 2025][Stox_2]       | [WP_212722943.1][Stox_2_molx]     |
+| STox_6                          | [Nicastro et al., 2025][STox_6]       | [SHF45208.1][STox_6_molx]         |
+| STox_11                         | [Nicastro et al., 2025][STox_11]      | [FD01845435_03730][STox_11_molx]  |
+| STox_32                         | [Nicastro et al., 2025][STox_32]      | [UPI00217D55C6][STox_32_molx]     |
+| STox_39                         | [Nicastro et al., 2025][STox_39]      | [NDGBJCOF_04003][STox_39_molx]    |
+| STox_57                         | [Nicastro et al., 2025][STox_57]      | [FD01848895_02820][STox_57_molx]  |
+| STox_58                         | [Nicastro et al., 2025][STox_58]      | [WP_113759404.1][STox_58_molx]    |
+| STox_59                         | [Nicastro et al., 2025][STox_59]      | [WP_039850383.1][STox_59_molx]    |
+| Tox-Ribonuclease                | [Nicastro et al., 2025][Tox-Ribonuclease] | [FD01845424_03165][Tox-Ribonuclease_molx] |    
+| YeeF 		                      | [This resource][yeef_model]         | [O31506][yeef_molx]
+
+## Colicins-like
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| CdiA-CT Kp342                   | [This Resource][CdiA-CT_Kp342]      | [6CP9][CdiA-CT_Kp342_molx]        |
+| Colicin D | [PF11429][colicind_model] | [1v74][colicind_molx]|
+| Colicin E5 | [PF12106][colicine5_model] | [2dfx][colicine5_molx] |
+| CdiA-CT ECL                     | [PF14426][CdiA-CT_ECL]              | [4NTQ][CdiA-CT_ECL_molx]          |
+| Ntox18.st1                      | [Nicastro et al., 2025][Ntox18.st1] | [FD01848346_03751][Ntox18.st1_molx] |
+| Ntox18.st2                      | [Nicastro et al., 2025][Ntox18.st2] | [FD01847924_02385][Ntox18.st2_molx] |
+| Ntox35                          | [PF15534][Ntox35]                   | [A0A1H3F8X0][Ntox35_molx]         |
+| STox_60                         | [Nicastro et al., 2025][STox_60]      | [WP_029789863.1][STox_60_molx]    |
+
+
+## EndoU-like
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| XendoU | [PF09412][XendoU]| [2C1W][XendoU_molx] |
+| EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
+| BC_0920                         | [This Resource][BC_0920]            | [Q813X6][BC_0920_molx]            |
 | RNase A	                      | [PF00074][rnasea_model]	            | [4WYN][rnasea_molx] |
+| CdiA-CT Ykris                   | [PF18431][CdiA-CT_Ykris]            | [5E3E][CdiA-CT_Ykris_molx] |
+
+## ???
 | RNase T1	                      | [This Resource][rnaset1_model]      | [1B2M][rnaset1_molx] |
 | RNase T2 	                      | [PF00445][rnaset2_model]	        | [2EA1][rnaset2_molx] |
 | Sarcin 	                      | [This Resource][sarcin_model]       | [1DE3][sarcin_molx] |
 | PBECR1 	                      | [PF18809][pbecr1_model]	            | [A0A1F6M7H8][pbecr1_molx] |
 | PBECR3                          | [PF18812][pbecr3_model]             | [A0A0B7GSS4][pbecr3_molx] |
 | PBECR4                          | [PF18813][pbecr4_model]             | [A0A417QTL2][pbecr4_molx] |
-| PBECR5                          | [PF18814][pbecr5_model]             | [A0A396QF16][pbecr5_molx] |
-| BC_0920                         | [This Resource][BC_0920]            | [Q813X6][BC_0920_molx]            |
-| CdiA-CT 96.165                  | [This Resource][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx]     |
 | CdiA-CT EC3006                  | [This Resource][CdiA-CT_EC3006]     | [6CP8][CdiA-CT_EC3006_molx]       |
 | CdiA-CT EC869                   | [This Resource][CdiA-CT_EC869]      | [B3BM48][CdiA-CT_EC869_molx]      |
-| CdiA-CT ECL                     | [PF14426][CdiA-CT_ECL]              | [4NTQ][CdiA-CT_ECL_molx]          |
-| CdiA-CT Kp342                   | [This Resource][CdiA-CT_Kp342]      | [6CP9][CdiA-CT_Kp342_molx]        |
 | CdiA-CT NC101                   | [This Resource][CdiA-CT_NC101]      | [5I4Q][CdiA-CT_NC101_molx]        |
-| CdiA-CT Ykris                   | [PF18431][CdiA-CT_Ykris]            | [5E3E][CdiA-CT_Ykris_molx] |
-| EndoVII                         | [PF15657][PF15657]                  | [U2R0G2][PF15657_molx]            |
-| Ntox18.st1                      | [Nicastro et al., 2025][Ntox18.st1] | [FD01848346_03751][Ntox18.st1_molx] |
-| Ntox18.st2                      | [Nicastro et al., 2025][Ntox18.st2] | [FD01847924_02385][Ntox18.st2_molx] |
-| Ntox19                          | [Nicastro et al., 2025][Ntox19]     | [FD01848386_04431][Ntox19_molx]   |
-| Ntox35                          | [PF15534][Ntox35]                   | [A0A1H3F8X0][Ntox35_molx]         |
-| Ntox36                          | [Zhang et al., 2012][Ntox36]        | [B2KBJ9][Ntox36_molx]             |
 | Ntox41                          | [Zhang et al., 2012][Ntox41]        | [A0A0E0USU5][Ntox41_molx]         |
-| Ntox47                          | [PF15540][Ntox47]                   | [A0A081NGI3][Ntox47_molx]         |
-| Ntox47.st1                      | [Nicastro et al., 2025][Ntox47.st1] | [FD01844471_04082][Ntox47.st1_molx] |
-| Ntox47.st2                      | [Nicastro et al., 2025][Ntox47.st2] | [FD01542955_04107][Ntox47.st2_molx] |
-| Ntox48                          | [Zhang et al., 2012][Ntox48]        | [A0A0H3KAY5][Ntox48_molx]         |
-| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]   |
 | Ntox50                          | [PF15542][Ntox50]                   | [A0AAF0CX04][Ntox50_molx]         |
-| Ntox7                           | [Nicastro et al., 2025][Ntox7]      | [FD01849511_03367][Ntox7_molx]    | 
-| STox_1                          | [Nicastro et al., 2025][STox_1]       | [WP_078701610.1][STox_1_molx]     |
-| STox_11                         | [Nicastro et al., 2025][STox_11]      | [FD01845435_03730][STox_11_molx]  |
-| Stox_2                          | [Nicastro et al., 2025][Stox_2]       | [WP_212722943.1][Stox_2_molx]     |
-| STox_3                          | [Nicastro et al., 2025][STox_3]       | [FD01852914_04161][STox_3_molx]   |
-| STox_32                         | [Nicastro et al., 2025][STox_32]      | [UPI00217D55C6][STox_32_molx]     |
-| STox_37                         | [Nicastro et al., 2025][STox_37]      | [A0A1M6MZG2][STox_37_molx]        |
-| STox_39                         | [Nicastro et al., 2025][STox_39]      | [NDGBJCOF_04003][STox_39_molx]    |
-| STox_4                          | [Nicastro et al., 2025][STox_4]       | [FD01875531_02409][STox_4_molx]   |
-| STox_55                         | [Nicastro et al., 2025][STox_55]      | [WP_117405990.1][STox_55_molx]    |
-| STox_57                         | [Nicastro et al., 2025][STox_57]      | [FD01848895_02820][STox_57_molx]  |
-| STox_58                         | [Nicastro et al., 2025][STox_58]      | [WP_113759404.1][STox_58_molx]    |
-| STox_59                         | [Nicastro et al., 2025][STox_59]      | [WP_039850383.1][STox_59_molx]    |
-| STox_6                          | [Nicastro et al., 2025][STox_6]       | [SHF45208.1][STox_6_molx]         |
-| STox_60                         | [Nicastro et al., 2025][STox_60]      | [WP_029789863.1][STox_60_molx]    |
-| Tox-Ribonuclease                | [Nicastro et al., 2025][Tox-Ribonuclease] | [FD01845424_03165][Tox-Ribonuclease_molx] |               
- 
+
+## Undetermined
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| STox_37                         | [Nicastro et al., 2025][STox_37_gian] [This Resoource][STox_37]      | [A0A1M6MZG2][STox_37_molx]        |
+| PBECR5                          | [PF18814][pbecr5_model]             | [A0A396QF16][pbecr5_molx] |
+| Ntox48                          | [Zhang et al., 2012][Ntox48]        | [A0A0H3KAY5][Ntox48_molx]         |
 
 <!-- HTML models -->
 [barnase_model]: https://KristiPhammie.github.io/becr/html/Barnase.html
@@ -131,6 +156,7 @@ Toxin Domain Files
 [STox_3]: https://KristiPhammie.github.io/becr/html/STox_3.html
 [STox_32]: https://KristiPhammie.github.io/becr/html/STox_32.html
 [STox_37]: https://KristiPhammie.github.io/becr/html/STox_37.html
+[STox_37_gian]: https://KristiPhammie.github.io/becr/html/STox_37_gian.html
 [STox_39]: https://KristiPhammie.github.io/becr/html/STox_39.html
 [STox_4]: https://KristiPhammie.github.io/becr/html/STox_4.html
 [STox_55]: https://KristiPhammie.github.io/becr/html/STox_55.html
