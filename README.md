@@ -37,10 +37,10 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| EndoVII                         | [PF15657][PF15657] [This Resource][EndoVII] | [U2R0G2][PF15657_molx]      |
+| EndoVII                         | [PF15657][EndoVII_pfam] [This Resource][EndoVII] | [U2R0G2][PF15657_molx]      |
 | Barnase                         | [This Resource][Barnase]              | [1B20][Barnase_molx]              |
 | Ntox7                           | [Nicastro et al., 2025][Ntox7]        | [FD01849511_03367][Ntox7_molx]    | 
-| Ntox36                          | [Zhang et al., 2012][Ntox36]_zhang [This Resource][Ntox36] | [Q7NP45][Ntox36_molx]             |
+| Ntox36                          | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [Q7NP45][Ntox36_molx]             |
 | Ntox47                          | [PF15540][Ntox47]                     | [A0A081NGI3][Ntox47_molx]         |
 | Ntox47.st1                      | [Nicastro et al., 2025][Ntox47.st1] [This Resource][Ntox47.st1.kristi]  | [FD01844471_04082][Ntox47.st1_molx] |
 | Ntox47.st2                      | [Nicastro et al., 2025][Ntox47.st2]   | [FD01542955_04107][Ntox47.st2_molx] |
