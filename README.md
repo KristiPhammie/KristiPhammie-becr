@@ -22,7 +22,6 @@
 | CdiA-CT 96.165                  | [This Resource][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx]                        |
 | Ntox19                          | [Nicastro et al., 2025][Ntox19]     | [FD01848386_04431][Ntox19_molx]                      |
 | Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]                      |
-| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]                      |
 
 ## BECR-like
 
@@ -67,6 +66,17 @@
 | Ntox18.st2                      | [Nicastro et al., 2025][Ntox18.st2] | [FD01847924_02385][Ntox18.st2_molx] |
 | Ntox35                          | [PF15534][Ntox35]                   | [A0A1H3F8X0][Ntox35_molx]         |
 | STox_60                         | [Nicastro et al., 2025][STox_60]    | [WP_029789863.1][STox_60_molx]    |
+| RNase T1 | [This Resource][rnaset1_model] | [1B2M][rnaset1_molx] |
+| RNase T2 | [PF00445][rnaset2_model] | [2EA1][rnaset2_molx] |
+| Sarcin | [This Resource][sarcin_model] | [1DE3][sarcin_molx] |
+| PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
+| PBECR3                          | [PF18812][pbecr3_model]             | [A0A0B7GSS4][pbecr3_molx]         |
+| PBECR4                          | [PF18813][pbecr4_model]             | [A0A417QTL2][pbecr4_molx]         |
+| CdiA-CT EC3006                  | [This Resource][CdiA-CT_EC3006]     | [6CP8][CdiA-CT_EC3006_molx]       |
+| CdiA-CT EC869                   | [This Resource][CdiA-CT_EC869]      | [B3BM48][CdiA-CT_EC869_molx]      |
+| CdiA-CT NC101                   | [This Resource][CdiA-CT_NC101]      | [5I4Q][CdiA-CT_NC101_molx]        |
+| Ntox41                          | [Zhang et al., 2012][Ntox41]        | [A0A0E0USU5][Ntox41_molx]         |
+| Ntox50                          | [PF15542][Ntox50]                   | [A0AAF0CX04][Ntox50_molx]         |
 
 
 ## EndoU-like
@@ -79,21 +89,7 @@
 | RNase A	    | [PF00074][rnasea_model]	| [4WYN][rnasea_molx]        |
 | CdiA-CT Ykris | [PF18431][CdiA-CT_Ykris]  | [5E3E][CdiA-CT_Ykris_molx] |
 
-## ???
 
-| Toxin Family  | Model (source) | Annotated Structure (accession) |
-|---------------|------------------|---------------------------------|
-| RNase T1 | [This Resource][rnaset1_model] | [1B2M][rnaset1_molx] |
-| RNase T2 | [PF00445][rnaset2_model] | [2EA1][rnaset2_molx] |
-| Sarcin | [This Resource][sarcin_model] | [1DE3][sarcin_molx] |
-| PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
-| PBECR3                          | [PF18812][pbecr3_model]             | [A0A0B7GSS4][pbecr3_molx]         |
-| PBECR4                          | [PF18813][pbecr4_model]             | [A0A417QTL2][pbecr4_molx]         |
-| CdiA-CT EC3006                  | [This Resource][CdiA-CT_EC3006]     | [6CP8][CdiA-CT_EC3006_molx]       |
-| CdiA-CT EC869                   | [This Resource][CdiA-CT_EC869]      | [B3BM48][CdiA-CT_EC869_molx]      |
-| CdiA-CT NC101                   | [This Resource][CdiA-CT_NC101]      | [5I4Q][CdiA-CT_NC101_molx]        |
-| Ntox41                          | [Zhang et al., 2012][Ntox41]        | [A0A0E0USU5][Ntox41_molx]         |
-| Ntox50                          | [PF15542][Ntox50]                   | [A0AAF0CX04][Ntox50_molx]         |
 
 ## Undetermined
 
